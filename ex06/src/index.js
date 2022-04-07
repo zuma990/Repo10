@@ -1,8 +1,8 @@
 // Create lion object here
 var lion = {
-    "name": "Simba",
-    "legs": 4,
-    "tails": 1
+    name: "Simba",
+    legs: 4,
+    tails: 1
 }
 // ENnd of lion object 
 
