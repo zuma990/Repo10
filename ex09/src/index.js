@@ -19,4 +19,9 @@ function myFunction(myObj, checkProp){
 
 }
 myFunction("myObj", "title");
+myFunction("myObj", "song");
+myFunction("myObj", "genre");
+myFunction("myObj", "actor");
+
+
 module.exports = myFunction;
